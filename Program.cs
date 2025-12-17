@@ -1,15 +1,9 @@
-﻿using System;
-
-
-class Program
+﻿class Program
 {
     static void Main()
     {
-        Odd_Even_finder obj = new Odd_Even_finder();
-        Console.WriteLine("Enter your Nuumber ");
-        Int32 num=Convert.ToInt32( Console.ReadLine());
-
-        obj.Odd_Even_finding_method(num);
+        MultiplicationTable table = new MultiplicationTable();
+        table.Multiplication_Table(10);
 
     }
 }
