@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Logic Building DSA": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
