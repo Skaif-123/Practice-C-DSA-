@@ -2,9 +2,8 @@
 {
     static void Main()
     {
-        ClosestProblem prb = new ClosestProblem();
-        prb.closestFinder(14, 4);
-
+        Sum_of_Digits obj = new Sum_of_Digits();
+        Console.WriteLine( obj.addedDigit(777777777));
 
     }
 }
