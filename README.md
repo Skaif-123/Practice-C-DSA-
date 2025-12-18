@@ -4,3 +4,5 @@
 2. Multiplication Problems
 3. Sum Of Natural Numbers
 4. Closest Number which is divisible
+5. Sum of Digits
+6. Reverse Digits
